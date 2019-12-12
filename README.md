@@ -15,5 +15,5 @@ In this article we are going to explore how to setup and consume the Location AP
 By making a simple app screen similar to most weather apps, with a background image, and Geolocation text.
 
 
-Feel free to read the whole article on my blog [React Native Drawer Tutorial](https://reactnativemaster.com/react-native-geolocation-example)
+Feel free to read the whole article on my blog [React Native Geolocation Example](https://reactnativemaster.com/react-native-geolocation-example)
 If you would like to try the app on Expo, I have prepared an expo project, check it from  [Expo.io](https://expo.io/@alhydra/react-native-geolcoation-example)
