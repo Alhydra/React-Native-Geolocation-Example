@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "React Native Geolocation Example",
+    "slug": "react-native-geolocation-example",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "description":"Hello again, welcome to this new article, where we are going React Native Geolocation Example.In this article we are going to explore how to setup and consume the Location API from Expo. Read the full article here https://reactnativemaster.com/react-native-geolocation-example",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
