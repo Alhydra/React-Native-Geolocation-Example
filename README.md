@@ -17,3 +17,5 @@ By making a simple app screen similar to most weather apps, with a background im
 
 Feel free to read the whole article on my blog [React Native Geolocation Example](https://reactnativemaster.com/react-native-geolocation-example)
 If you would like to try the app on Expo, I have prepared an expo project, check it from  [Expo.io](https://expo.io/@alhydra/react-native-geolocation-example)
+
+[Need a React Native Developer ? Hire Me](https://reactnativemaster.com/senior-react-native-developer-ready-to-go/)
